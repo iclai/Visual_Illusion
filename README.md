@@ -4,7 +4,13 @@ description: Visual Illusion
 
 # 錯視
 
-\*\*\*\*[**菲利斯·瓦里尼**](https://www.indetail.com.tw/archives/24020) **Felice Varini**
+[**菲利斯·瓦里尼**](https://www.indetail.com.tw/archives/24020) **Felice Varini**
 
-![&#x83F2;&#x5229;&#x65AF;&#xB7;&#x74E6;&#x91CC;&#x5C3C;](.gitbook/assets/image%20%281%29.png)
+
+
+![&#x83F2;&#x5229;&#x65AF;&#xB7;&#x74E6;&#x91CC;&#x5C3C;](.gitbook/assets/image-1.png)
+
+
+
+
 
