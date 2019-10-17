@@ -8,7 +8,9 @@
 
 ### 北岡明佳「旋轉之蛇」
 
-### [北岡明佳是日本知名的心理學家](http://www.ritsumei.ac.jp/~akitaoka/?fbclid=IwAR2WfSfZl23pdK0Jt7Q_cMVwwP70W-5zv6mJbdJhj2td5rsCzss2fLmqcNY)
+### [北岡明佳是日本知名的心理學家作品集](http://www.ritsumei.ac.jp/~akitaoka/?fbclid=IwAR2WfSfZl23pdK0Jt7Q_cMVwwP70W-5zv6mJbdJhj2td5rsCzss2fLmqcNY)連結
+
+### 
 
 ![&#x5317;&#x5CA1;&#x660E;&#x4F73;&#x300C;&#x65CB;&#x8F49;&#x4E4B;&#x86C7;&#x300D;](.gitbook/assets/image%20%282%29.png)
 
