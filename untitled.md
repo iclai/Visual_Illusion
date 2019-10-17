@@ -8,9 +8,9 @@
 
 ### 北岡明佳「旋轉之蛇」
 
-![&#x5317;&#x5CA1;&#x660E;&#x4F73;&#x300C;&#x65CB;&#x8F49;&#x4E4B;&#x86C7;&#x300D;](.gitbook/assets/image%20%282%29.png)
+### [北岡明佳是日本知名的心理學家](http://www.ritsumei.ac.jp/~akitaoka/?fbclid=IwAR2WfSfZl23pdK0Jt7Q_cMVwwP70W-5zv6mJbdJhj2td5rsCzss2fLmqcNY)
 
-[北岡明佳是日本知名的心理學家](http://www.ritsumei.ac.jp/~akitaoka/?fbclid=IwAR2WfSfZl23pdK0Jt7Q_cMVwwP70W-5zv6mJbdJhj2td5rsCzss2fLmqcNY)
+![&#x5317;&#x5CA1;&#x660E;&#x4F73;&#x300C;&#x65CB;&#x8F49;&#x4E4B;&#x86C7;&#x300D;](.gitbook/assets/image%20%282%29.png)
 
 ![](.gitbook/assets/image%20%283%29.png)
 
@@ -19,4 +19,6 @@
 ![](.gitbook/assets/image.png)
 
 ![](.gitbook/assets/image%20%281%29.png)
+
+![](.gitbook/assets/image%20%288%29.png)
 
