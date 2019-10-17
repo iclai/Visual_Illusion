@@ -8,5 +8,5 @@ description: 無法歸類的藝術中的數學邏輯
 
 {% embed url="https://artemperor.tw/focus/1591" %}
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 

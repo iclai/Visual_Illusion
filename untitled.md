@@ -6,9 +6,17 @@
 * **大腦對於不同亮度的處理速度不同，因而讓大腦誤以為這些資訊在移動。** 例如，可能大腦處理黑色的速度快於白色，就會誤以為是黑色往白色移動。
 * **大腦對於不同「對比度」（contrast）的處理速度不同，因而讓大腦誤以為這些資訊在移動。** 此理論和第一個理論類似，不同之處在於，這個理論認為大腦處理的對象並不是某個位置的「絕對亮度」，而是該處亮度與臨近亮度或整體亮度的「對比度」。
 
-![&#x5317;&#x5CA1;&#x660E;&#x4F73;&#x300C;&#x65CB;&#x8F49;&#x4E4B;&#x86C7;&#x300D;](.gitbook/assets/image.png)
+### 北岡明佳「旋轉之蛇」
+
+![&#x5317;&#x5CA1;&#x660E;&#x4F73;&#x300C;&#x65CB;&#x8F49;&#x4E4B;&#x86C7;&#x300D;](.gitbook/assets/image%20%282%29.png)
 
 [北岡明佳是日本知名的心理學家](http://www.ritsumei.ac.jp/~akitaoka/?fbclid=IwAR2WfSfZl23pdK0Jt7Q_cMVwwP70W-5zv6mJbdJhj2td5rsCzss2fLmqcNY)
+
+![](.gitbook/assets/image%20%283%29.png)
+
+![](.gitbook/assets/image%20%285%29.png)
+
+![](.gitbook/assets/image.png)
 
 ![](.gitbook/assets/image%20%281%29.png)
 
